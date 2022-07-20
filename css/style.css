@@ -1,0 +1,13 @@
+.img{
+	border-radius: 50%;
+	transition: 0.5s;
+}
+
+.img:hover{
+	transform: scale(1.1);
+}
+
+body{
+	background: #669999 url(../img/paisaje.jpg) center center no-repeat fixed;
+	background-size: cover;
+}
